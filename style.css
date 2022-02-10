@@ -76,9 +76,9 @@ body {
   
   /* START BELOW THIS LINE */
 
-  html {
+  /* html {
       position: static;
-  }
+  } */
 
   #power {
       position: relative;
